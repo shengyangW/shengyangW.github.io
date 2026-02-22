@@ -7,10 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year ECE PhD student at the University of Michigan, Ann Arbor, supervised by [Prof. Vladimir Dvorkin](https://web.eecs.umich.edu/~dvorkin/). My major research interest include electricity market, power system cyber security and data privacy. I recieved my M.Sc. degree in Electrical Engineering at Huazhong University of Science and Technology and my B.Eng degree in Electrical Engineering at North China Electric Power University.
+I'm a second-year ECE PhD student at the University of Michigan, Ann Arbor, supervised by [Prof. Vladimir Dvorkin](https://web.eecs.umich.edu/~dvorkin/). My major research interest is power system optimization and control, with a focus on using differential privacy to release sensitive power system datasets. I recieved my M.Sc. degree in Electrical Engineering at Huazhong University of Science and Technology and my B.Eng degree in Electrical Engineering at North China Electric Power University.
 
 News
 ======
+**May 2025:** Our paper [Synthesizing Grid Data With Cyber Resilience and Privacy Guarantees](https://ieeexplore.ieee.org/abstract/document/11016094) was published in *IEEE Control Systems Letters*.
+
+**March 2025:** Our paper [Efficient generation of power system topology diagrams based on Graph Neural Network](https://www.sciencedirect.com/science/article/pii/S0952197625004622) was published in *Engineering Applications of Artificial Intelligence*.
+
+**March 2025:** Our paper [A Lightweight Framework for Measurement Causality Extraction and FDIA Localization](https://ieeexplore.ieee.org/abstract/document/10925483) was published in *IEEE Transactions on Smart Grid*.
+
 **Aug 2024:**  Start my journey as a PhD student at the University of Michigan!
 
 **June 2024:**  Successfully defended my master thesis entitled "Measurement Data Attacks and Defense Mechanism in Power Systems".
