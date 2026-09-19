@@ -12,8 +12,15 @@ profile:
     <p>EECS 4413</p>
     <p>1037 Beal Ave</p>
     <p>Ann Arbor, MI 48105</p>
-    <p>[<i class="fa-brands fa-google-scholar fa-3x"></i>](https://scholar.google.com/citations?user=3O60BNcAAAAJ) 
-    &nbsp;&nbsp;[<i class="fa-brands fa-linkedin fa-3x"></i>](https://www.linkedin.com/in/shengyang-wu-597894243/)</p>
+<p>
+  <a href="https://scholar.google.com/citations?user=3O60BNcAAAAJ">
+    <i class="fa-brands fa-google-scholar fa-2x"></i>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shengyang-wu-597894243/">
+    <i class="fa-brands fa-linkedin fa-2x"></i>
+  </a>
+</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
