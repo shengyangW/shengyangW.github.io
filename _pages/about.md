@@ -12,13 +12,13 @@ profile:
     <p>EECS 4413</p>
     <p>1037 Beal Ave</p>
     <p>Ann Arbor, MI 48105</p>
-<p>
+<p style="display: flex; gap: 20px; align-items: center;">
   <a href="https://scholar.google.com/citations?user=3O60BNcAAAAJ">
-    <i class="fa-brands fa-google-scholar fa-2x"></i>
+    <i class="fa-brands fa-google-scholar fa-3x"></i>
   </a>
-  &nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/shengyang-wu-597894243/">
-    <i class="fa-brands fa-linkedin fa-2x"></i>
+    <i class="fa-brands fa-linkedin fa-3x"></i>
   </a>
 </p>
 
