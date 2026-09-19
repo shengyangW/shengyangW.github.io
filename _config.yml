@@ -15,7 +15,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🐦 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
 url: https://shengyangW.github.io # the base hostname & protocol for your site
@@ -355,8 +355,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Wu]
+  first_name: [Shengyang]
 
   style: apa
   locale: en
@@ -390,12 +390,12 @@ enable_publication_badges:
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
   [
-    abbr,
+    # abbr,
     abstract,
     additional_info,
     altmetric,
     annotation,
-    arxiv,
+    # arxiv,
     award,
     award_name,
     bibtex_show,
@@ -409,7 +409,7 @@ filtered_bibtex_keywords:
     inspirehep_id,
     pdf,
     pmid,
-    poster,
+    # poster,
     preview,
     selected,
     slides,
