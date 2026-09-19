@@ -12,6 +12,7 @@ profile:
     <p>EECS 4413</p>
     <p>1037 Beal Ave</p>
     <p>Ann Arbor, MI 48105</p>
+    <p>[<i class="fa-brands fa-google-scholar fa-3x"></i>](https://scholar.google.com/citations?user=3O60BNcAAAAJ)</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
