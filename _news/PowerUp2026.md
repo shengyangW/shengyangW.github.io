@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Our poster [Differentially Private Obfuscation of Power Grid Dynamics](https://arxiv.org/abs/2605.24725) is presented at PowerUp 2026 in Boulder CO. 
+Our poster [Differentially Private Obfuscation of Power Grid Dynamics](/assets/pdf/PowerUP2026_Poster.pdf) is presented at PowerUp 2026 in Boulder CO. 
 
 ---
 
