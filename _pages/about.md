@@ -29,7 +29,7 @@ latest_posts:
 
 I'm a third-year PhD candidate in Electrical Engineering at the University of Michigan, Ann Arbor, supervised by [Prof. Vladimir Dvorkin](https://web.eecs.umich.edu/~dvorkin/). My major research interest is power system optimization and control, with a focus on using differential privacy to release sensitive power system datasets. 
 
-Before joining the University of Michigan, I recieved my M.Sc. degree in Electrical Engineering at Huazhong University of Science in 2024 and Technology and my B.Eng degree in Electrical Engineering at North China Electric Power University in 2021.
+Before joining the University of Michigan, I recieved my M.Sc. degree in Electrical Engineering at Huazhong University of Science and Technology in 2024, and my B.Eng degree in Electrical Engineering at North China Electric Power University in 2021.
 
 <p style="display: flex; gap: 20px; align-items: center;">
   <a href="https://scholar.google.com/citations?user=3O60BNcAAAAJ">
